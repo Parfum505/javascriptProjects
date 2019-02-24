@@ -2,7 +2,7 @@
 
 ![Dice game](img/dice_game.jpg "Dice game")
 
-Link to the [demo Dice game](https://parfum505.github.io/javascriptProjects/diceGame/ "Dice game")
+#### Link to the demo [ Dice game](https://parfum505.github.io/javascriptProjects/diceGame/ "Dice game")
 ### GAME RULES:
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
