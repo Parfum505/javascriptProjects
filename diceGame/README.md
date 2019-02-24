@@ -1,6 +1,6 @@
 # Dice game
 
-[Dice game](img/dice_game.jpg "Dice game")
+[Dice game](https://github.com/Parfum505/javascriptProjects/blob/gh-pages/diceGame/img/dice_game.jpg "Dice game")
 
 Link to the [demo Dice game](https://parfum505.github.io/javascriptProjects/diceGame/ "Dice game")
 ### GAME RULES:
